@@ -8,7 +8,17 @@ h1{
   color:antiquewhite;
   text-align: center;
 }
-
+.DescT {
+  color:azure;
+  text-align: center;
+  background-color: #1D95C9;
+  justify-content: center;
+}
+.Player{
+  display: flex;
+  justify-content: center;
+  padding: 175px;
+}
 span{
   color: #FFFFFF;
 }
